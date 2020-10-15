@@ -1,4 +1,4 @@
-import {Route, Switch, withRouter} from "react-router";
+import {Route, Switch} from "react-router";
 import Home from "./home";
 import Team from "./team";
 import React from "react";

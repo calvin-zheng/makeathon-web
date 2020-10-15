@@ -94,7 +94,7 @@ class FAQ extends Component {
                     <div className = "question-outer">
                         <p className = "question">What training do I need to participate in Makeathon?</p>
                         <p className = "answer">
-                            There will be workshops leading up to the event - for updates, follow our <a href="https://www.facebook.com/mpoweredmakeathon" target="_blank">Facebook</a> page.
+                            There will be workshops leading up to the event - for updates, follow our <a href="https://www.facebook.com/mpoweredmakeathon">Facebook</a> page.
                         </p>
                     </div>
                     <div className = "question-outer">
