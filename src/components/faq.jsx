@@ -1,10 +1,4 @@
 import React, {Component} from "react";
-import makebg from "./assets/make-bg.mp4";
-import makelogo from "./assets/make-dro.png";
-import makeicon from "./assets/makeathon-icon.png";
-import about1 from "./assets/about-1.jpg";
-import about2 from "./assets/about-2.jpg";
-import about3 from "./assets/about-3.jpg";
 import "./faq.css"
 
 class FAQ extends Component {

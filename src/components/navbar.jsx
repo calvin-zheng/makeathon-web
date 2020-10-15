@@ -1,7 +1,7 @@
 import React, {Component} from "react";
 import "./navbar.css"
 import makeBanner from "./assets/makeathon-splash-logo-transparent.png"
-import { BrowserRouter, Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 class NavBar extends Component {
     constructor(props) {
@@ -13,7 +13,7 @@ class NavBar extends Component {
             <React.Fragment>
                 <nav className = "navbar">
                     <div className = "nav-items">
-                        <img src={makeBanner} id="banner"/>
+                        <img src={makeBanner} id="banner" alt=''/>
                         <ul>
                             {/*<li>APPLY</li>*/}
                             <li><Link to ="/faq">FAQ</Link></li>

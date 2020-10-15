@@ -1,6 +1,4 @@
 import React, {Component} from "react";
-import makebg from "./assets/make-bg.mp4";
-import makelogo from "./assets/make-dro.png";
 import makeicon from "./assets/makeathon-icon.png";
 import dharivi from "./assets/Dharivi.jpg";
 import tajes from "./assets/Tajes-Khanna.jpg";
