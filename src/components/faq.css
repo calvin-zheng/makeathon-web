@@ -1,0 +1,41 @@
+.faq {
+    background-size: cover;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 75%;
+    margin: 0 auto;
+}
+
+.faq h1{
+    padding-top: 100px;
+    text-align: left;
+    border-bottom: 1px solid black;
+}
+
+.questions{
+    display: grid;
+    grid-template-columns: 50% 50%;
+
+}
+
+.question-outer{
+    margin: 10px;
+}
+
+.question{
+    font-family: 'hero-new', sans-serif;
+    font-weight: bolder;
+}
+
+.answer {
+    font-family: 'hero-new', sans-serif;
+    font-weight: lighter;
+}
+
+body, html{
+    height: 100%;
+    /*filter: blur(8px);*/
+    /*-webkit-filter: blur(8px);*/
+}
+

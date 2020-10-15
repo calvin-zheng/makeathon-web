@@ -1,0 +1,134 @@
+@import url("https://use.typekit.net/ywl2ccb.css");
+
+.team {
+    padding-top: 120px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.team h1 {
+    margin: 0;
+    font-family: "hero-new", sans-serif;
+}
+
+.team p {
+    margin: 0;
+    font-family: "hero-new", sans-serif;
+}
+
+.directors {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    margin: 0 auto;
+    padding-bottom: 75px;
+}
+
+.director{
+    margin: 0;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.director img{
+    margin: 0;
+    margin-top: 20px;
+    height: 300px;
+    width: 300px;
+    border-radius: 50px;
+    border-color: #00274C;
+    border-style: solid;
+}
+
+.director .makeicon{
+    margin: 0;
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+    border-style: none;
+}
+
+.director .name{
+    font-family: "hero-new", sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.director .blurb {
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: justify;
+}
+
+.director .title{
+    font-style: italic;
+    font-size: 22px;
+}
+
+.talent{
+    margin: 0;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.talent img{
+    object-fit: cover;
+    object-position: top;
+    margin: 0;
+    margin-top: 20px;
+    height: 300px;
+    width: 300px;
+    border-radius: 50px;
+    border-color: #00274C;
+    border-style: solid;
+}
+
+.talent .makeicon{
+    margin: 0;
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+    border-style: none;
+}
+
+.talent .name{
+    font-family: "hero-new", sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.talent .blurb {
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: justify;
+}
+
+.talent .title{
+    font-style: italic;
+    font-size: 22px;
+}
+
+.talents-1{
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+}
+
+h2 {
+    margin: 0 auto;
+    width: 75%;
+    border-bottom: 1px solid black;
+    padding-bottom: 20px;
+}
+
+/*.director .blurb{*/
+/*    width: 50%;*/
+/*}*/

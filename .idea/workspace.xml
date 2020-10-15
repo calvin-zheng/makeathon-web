@@ -1,8 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aad20608-19d0-45e1-a465-e3cf9f20cb22" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/makeathon-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/Dharivi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/Tajes-Khanna.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/Tanushree.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/about-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/about-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/about-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/devansh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/ellen-li.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/ethan-deguire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/make-banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/make-bg.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/make-dro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/makeathon-splash-logo-transparent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/nathan-tsiang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/vinnie-larrson.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/faq.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/faq.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/team.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/team.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gv3kSdEIc9bsCgHDorUpkqL0wC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/assets" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/assets" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/assets" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aad20608-19d0-45e1-a465-e3cf9f20cb22" name="Default Changelist" comment="" />
+      <created>1598981381360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598981381360</updated>
+      <workItem from="1598981384205" duration="2522000" />
+      <workItem from="1599355827670" duration="3968000" />
+      <workItem from="1599393535241" duration="1196000" />
+      <workItem from="1599855126823" duration="43000" />
+      <workItem from="1599855180744" duration="1198000" />
+      <workItem from="1600560597599" duration="640000" />
+      <workItem from="1600562656030" duration="1796000" />
+      <workItem from="1600980342952" duration="12132000" />
+      <workItem from="1601224594389" duration="11354000" />
+      <workItem from="1601404089214" duration="5000" />
+      <workItem from="1602170545895" duration="999000" />
+      <workItem from="1602686502398" duration="19000" />
+      <workItem from="1602728002363" duration="1171000" />
+      <workItem from="1602729209944" duration="29000" />
+      <workItem from="1602729241089" duration="2000" />
+      <workItem from="1602729262161" duration="615000" />
+      <workItem from="1602730483927" duration="4504000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
