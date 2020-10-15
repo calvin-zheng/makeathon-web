@@ -33,6 +33,11 @@
     font-weight: lighter;
 }
 
+p a {
+    color: #00274C;
+    font-weight: bold;
+}
+
 body, html{
     height: 100%;
     /*filter: blur(8px);*/
