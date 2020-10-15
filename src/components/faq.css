@@ -34,7 +34,7 @@
 }
 
 p a {
-    color: #00274C;
+    color: #00274C !important;
     font-weight: bold;
 }
 
