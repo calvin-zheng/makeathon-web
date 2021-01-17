@@ -19,26 +19,26 @@ class FAQ extends Component {
                     <div className = "question-outer">
                         <p className = "question">How is the event going to be affected due to COVID-19?</p>
                         <p className = "answer">
-                            The event which typically took place in person in the Duderstadt Center, will be hosted partially virtually this year if need be. Participants will be able to pick up materials from the Duderstadt Center and use the machinery on a reservation basis. We aim to host a public-health informed event and hence will have limited teams use the design space at once while rotating between teams at regular intervals.
+                            The event which typically took place in person in the Duderstadt Center, will be hosted virtually this year. Participants will be able to compete in either our CAD (Computer-Aided Design) Competition or our Open Product Design Competition. If your team chooses the Open Product Design Competition you will purchase your own materials that we will reimburse you up to $125.
                         </p>
                     </div>
                     <div className = "question-outer">
                         <p className = "question">Where is Makeathon?</p>
                         <p className = "answer">
-                            Makeathon is tentatively scheduled for February 5-7, 2021. The current location is to be determined based on COVID-19 safety guidelines from the University of Michigan.
+                            Makeathon is scheduled for February 5-7, 2021. The event will be held virtually this year.
                         </p>
                     </div>
                     <div className = "question-outer">
                         <p className = "question">Who can participate in Makeathon?</p>
                         <p className = "answer">
-                            Makeathon is open to all college students and all majors - not just the University of Michigan
+                            Makeathon is open to all college students and all majors - from the University of Michigan
                             - ranging from undergraduates to PhD. However, participants must be over the age of 18.
                         </p>
                     </div>
                     <div className = "question-outer">
                         <p className = "question">How many people can be on a team?</p>
                         <p className = "answer">
-                            Teams should be comprised of 2-6 people.
+                            Teams should be comprised of 1-6 people.
                             Feel free to work with as many people as you are comfortable with in that range!
                         </p>
                     </div>
@@ -51,7 +51,7 @@ class FAQ extends Component {
                     <div className = "question-outer">
                         <p className = "question">What if I don't have a team?</p>
                         <p className = "answer">
-                            No worries! We are planning to match people into teams at the beginning of the event.
+                            No worries! There will be a channel on Slack that you can use to meet and find team members!
                         </p>
                     </div>
                     <div className = "question-outer">
@@ -73,48 +73,52 @@ class FAQ extends Component {
                         <p className = "question">Should I be starting on my project right now?</p>
                         <p className = "answer">
                             Nope! In the spirit of Makeathon, we’re asking participants to avoid bringing projects that have already been started.
-                            That being said, any useful files (CAD, code, etc.) and documentation is highly encouraged.
                         </p>
                     </div>
                     <div className = "question-outer">
                         <p className = "question">How much does it cost for me to participate in Makeathon?</p>
                         <p className = "answer">
-                            Makeathon is <b>FREE</b> for all participants. The event will encompass food, material, and tool costs.
-                            However, teams from further away will be responsible for lodging and miscellaneous expenses.
-                            If you have specific materials in mind, shoot us an email and we will do our best to facilitate.
+                            Makeathon is <b>FREE</b> for all participants. The event will encompass material costs.
                         </p>
                     </div>
                     <div className = "question-outer">
                         <p className = "question">How long is Makeathon?</p>
                         <p className = "answer">
-                            The event is continuous from <b>Friday, February 5th</b> through <b>Sunday, February 7th</b>.
-                            Teams are free to go home and get some rest.
+                            The event is continuous from <b>12 PM EST, Friday, February 5th</b> through <b>12 PM EST, Sunday, February 7th</b>. After the competition is complete, there will be judging from 12-4PM EST.
                         </p>
                     </div>
                     <div className = "question-outer">
                         <p className = "question">What training do I need to participate in Makeathon?</p>
                         <p className = "answer">
-                            There will be workshops leading up to the event - for updates, follow our <a href="https://www.facebook.com/mpoweredmakeathon">Facebook</a> page.
+                            There will be workshops leading up to the event - for updates, follow our <a href="https://www.facebook.com/mpoweredmakeathon">Facebook</a>, <a href="https://www.linkedin.com/in/mpowered-makeathon/">Linkedin</a>, and <a href="https://www.instagram.com/umichmakeathon/">Instagram</a> page.
                         </p>
                     </div>
                     <div className = "question-outer">
                         <p className = "question">What equipment will be available to use?</p>
                         <p className = "answer">
-                            Check back later for updates on the equipment we will be providing.
+                            Since this is a virtual event, you can use any tools and equipment that you own. Additionally, you are able to purchase another $125 worth of materials that we will reimburse you for, given that you present your project for judging.
                         </p>
                     </div>
                     <div className = "question-outer">
-                        <p className = "question">I’m not from UofM - Ann Arbor. What should I bring?</p>
+                        <p className = "question">Can we purchase materials that cost more than the reimbursement amount and only get reimbursed for $125 worth? </p>
                         <p className = "answer">
-                            We’ll be sending out detailed info of what to bring, but it’ll basically be sleepover stuff - sleeping bag, a change of clothes, deodorant, etc.
+                            To keep the competition as fair as possible we will have to limit the cost of your materials to $125.
                         </p>
                     </div>
                     <div className = "question-outer">
-                        <p className = "question">I’m not from UofM - Ann Arbor. What should I bring?</p>
+                        <p className = "question">How do we get reimbursed for the materials we purchase?</p>
                         <p className = "answer">
-                            We’ll be sending out detailed info of what to bring, but it’ll basically be sleepover stuff - sleeping bag, a change of clothes, deodorant, etc.
+                            After you present your product, we will ask for the total amount your team spent along with the receipts. We will then reimburse you accordingly.
                         </p>
                     </div>
+
+                    <div className = "question-outer">
+                        <p className = "question">What is the Fusion 360 Award and how do I compete for it?</p>
+                        <p className = "answer">
+                            The Fusion 360 Award is sponsored by Autodesk, who will be judging and presenting this award to the two teams at Makeathon that best utilize their Fusion 360 software.
+                        </p>
+                    </div>
+
 
                 </div>
                 </div>
