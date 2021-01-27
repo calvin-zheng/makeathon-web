@@ -115,7 +115,7 @@ class FAQ extends Component {
                     <div className = "question-outer">
                         <p className = "question">What is the Fusion 360 Award and how do I compete for it?</p>
                         <p className = "answer">
-                            The Fusion 360 Award is sponsored by Autodesk, who will be judging and presenting this award to the two teams at Makeathon that best utilize their Fusion 360 software.
+                            The Fusion 360 Award is sponsored by Autodesk, who will be judging and presenting this award to the two teams at Makeathon that best utilize their Fusion 360 software. All teams that utilize the Fusion 360 Software in their product are eligible for this award.
                         </p>
                     </div>
 

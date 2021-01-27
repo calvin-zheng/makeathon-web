@@ -18,6 +18,7 @@ class NavBar extends Component {
                             <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSea4t0nLenTbG_ya6qlPV5UfR_7MLviIcRmK0kz7iOr6UqAwQ/viewform?usp=sf_link">APPLY</a></li>
                             <li><Link to ="/faq">FAQ</Link></li>
                             <li><Link to ="/event">EVENT INFO</Link></li>
+                            <li><Link to ="/workshop">WORKSHOPS</Link></li>
                             {/*<li>SPONSORS</li>*/}
                             <li><Link to ="/team">OUR TEAM</Link></li>
                             <li><Link to ="/">ABOUT</Link></li>

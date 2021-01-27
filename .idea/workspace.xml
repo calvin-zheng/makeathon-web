@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aad20608-19d0-45e1-a465-e3cf9f20cb22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/event-info.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/event-info.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/fusion360.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/workshop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/workshop.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/faq.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/faq.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar.jsx" afterDir="false" />
     </list>
@@ -30,15 +32,15 @@
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/components/assets" />
-      <recent name="$PROJECT_DIR$/public" />
-      <recent name="$PROJECT_DIR$/src/components" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/components/assets" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/assets" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/components" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -97,7 +99,7 @@
       <workItem from="1602730483927" duration="7495000" />
       <workItem from="1603995222032" duration="89000" />
       <workItem from="1610908572183" duration="1951000" />
-      <workItem from="1611707198544" duration="5640000" />
+      <workItem from="1611707198544" duration="6717000" />
     </task>
     <servers />
   </component>
