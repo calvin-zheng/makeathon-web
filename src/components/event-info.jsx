@@ -33,10 +33,11 @@ class EventInfo extends Component {
                         </div>
                     </div>
                     <div className="competition">
-                        <h3 className="competition-header">Prizes</h3>
+                        <h3 className="competition-header">Prizes and Judging Criteria</h3>
                         <div className="flex-row" style={{width: '50%'}}>
                             <div className="flex-col" style={{width: '45%'}}>
                                 <h4>CAD (Computer-Aided Design)</h4>
+                                <p style={{margin: '5px'}}><a href="https://drive.google.com/file/d/1XNbX0k3qZ_hDmMfIslgdP0LiMupSL4Xv/view?usp=sharing"><i>Judging Rubric</i></a>.</p>
                                 <div className="bullets">
                                     <div className="makebullet">
                                         <img src={makeicon} className="makebulletimg" alt="makeathon logo bullet"/>
@@ -50,6 +51,7 @@ class EventInfo extends Component {
                             </div>
                             <div className="flex-col" style={{width: '45%'}}>
                                 <h4>Open Product Design</h4>
+                                <p style={{margin: '5px'}}><a href="https://drive.google.com/file/d/1nVU8fW6mJxjzcjBR5zGVjl-aedR18sHZ/view?usp=sharing"><i>Judging Rubric</i></a>.</p>
                                 <div className="bullets">
                                     <div className="makebullet">
                                         <img src={makeicon} className="makebulletimg" alt="makeathon logo bullet"/>
@@ -65,7 +67,7 @@ class EventInfo extends Component {
                         <br />
                         <div className="flex-col" style={{width: '25%'}}>
                             <h4>Autodesk Fusion 360 Award</h4>
-                            <p style={{margin: '5px'}}>This prize will be awarded to the two teams (from either competition) that best utilize the Autodesk Fusion 360 Software.</p>
+                            <p style={{margin: '5px'}}>This prize will be awarded to the two teams (from either competition) that best utilize the Autodesk Fusion 360 Software. You can find the judging rubric  <a href="https://docs.google.com/document/d/1yCTgJZe65scYPJXNgOvdxfqZDjuE1Gqg9S3X_iwQmFI/edit?usp=sharing"><i>here</i></a>.</p>
                             <div className="bullets">
                                 <div className="makebullet">
                                     <img src={makeicon} className="makebulletimg" alt="makeathon logo bullet"/>
