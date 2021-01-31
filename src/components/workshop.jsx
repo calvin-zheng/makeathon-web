@@ -19,7 +19,7 @@ class Workshop extends Component {
                     <img src={fusionFlyer}  alt={"makeathon" +
                     " logo"} style={{marginBottom: "0", width: '30%'}}/>
                     <p style={{width: '40%', fontSize: '24px', marginBottom: '0'}}> Fusion 360 is the world’s first cloud-based 3D CAD, CAM, and CAE platform. It allows teams to work virtually anywhere, with anyone. Fusion 360 is compatible with Macs and PCs.</p>
-                    <p style={{width: '40%', fontSize: '24px'}}> Here are the links to the workshops (<a href="https://umich.zoom.us/rec/share/wj2iY24Ef5geLN9_Mc_Ce4wNv8CSQH7PuqY3toRxB_G8SNF-bhgA8aS9oJnRxKQs.1SLhbAFh25IM-G3A">Zoom Workshop</a> and <a href="https://youtu.be/r9SrPiM9m0s"> Generative Design Autodesk Workshop </a> </p>
+                    <p style={{width: '40%', fontSize: '24px'}}> Here are the links to the workshops (<a href="https://umich.zoom.us/rec/share/wj2iY24Ef5geLN9_Mc_Ce4wNv8CSQH7PuqY3toRxB_G8SNF-bhgA8aS9oJnRxKQs.1SLhbAFh25IM-G3A">Zoom Workshop</a> and <a href="https://youtu.be/r9SrPiM9m0s"> Generative Design Autodesk Workshop </a>) </p>
                 </div>
             </React.Fragment>
         )
