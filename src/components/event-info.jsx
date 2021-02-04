@@ -142,7 +142,7 @@ class EventInfo extends Component {
                                     <hr />
                                     <div className="makebullet">
                                         <img src={makeicon} className="makebulletimg" alt="makeathon logo bullet"/>
-                                        <p><b>12AM-11PM:</b> Build Time</p>
+                                        <p><b>12AM-11AM:</b> Build Time</p>
                                     </div>
                                     <div className="makebullet">
                                         <img src={makeicon} className="makebulletimg" alt="makeathon logo bullet"/>
